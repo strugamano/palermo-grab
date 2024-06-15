@@ -7,13 +7,16 @@ The application is developed and maintained on [Manjaro Linux](https://manjaro.o
 ## Installation
 
 1. The following packages have to be installed from the package manager: git, python, python-pip, python-pipenv (most of these are pre-installed on many Linux systems)
-2. Open a console somewhere in your home folder (e.g. ~/src) and clone the git repository: `git clone https://github.com/strugamano/palermo-grab.git`
+2. Open a console somewhere in your home folder (e.g. ~/src) and clone the git repository:
+    `git clone https://github.com/strugamano/palermo-grab.git`
 3. cd to the downloaded folder: `cd palermo-grab`
 4. Run the installation script: `sh install.sh`
 
 ## Usage
 
-The application can be started from the palermo-grab directory with the URL of the library website: `./palermo-grab.sh 'URL'`
+The application can be started from the palermo-grab directory with the URL of the library website:
+
+`./palermo-grab.sh 'URL'`
 
 Pay attention to the apostrophes around the URL!
 
